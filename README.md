@@ -1,3 +1,6 @@
+This project is deprecated and exists only for historical reasons.
+
+---
 # PyKamina
 ![Kamina_Logo](kamina_logo.svg)  
 A Kamina backend using python and IPFS
